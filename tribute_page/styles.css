@@ -85,10 +85,11 @@ img {
     opacity: 0.6;
     transition: transform 1s ease-in-out 0ms;
 }
-img:active {
+img:hover {
     transform: scale(1.5);
     cursor: not-allowed;
   }
+
 
 @keyframes killua {
     10% {
